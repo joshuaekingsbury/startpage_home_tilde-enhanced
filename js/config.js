@@ -22,6 +22,26 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
+    {
+      category: 'General',
+      name: 'Google Drive',
+      key: 'd',
+      url: 'https://drive.google.com/drive/u/0/my-drive',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: 'drive',
+      quickLaunch: true,
+    },
+    {
+      category: 'General',
+      name: 'Github',
+      key: 'd',
+      url: 'https://github.com/joshuaekingsbury?tab=repositories',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: 'github',
+      quickLaunch: true,
+    },
   ],
 
   /**
