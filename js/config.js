@@ -10,7 +10,7 @@ const CONFIG = {
       name: 'Google',
       key: '*',
       url: 'https://google.com',
-      search: '/?q={}&udm=14'
+      search: '/search?q=&udm=14'
     },
     {
       name: 'Duckduckgo',
@@ -41,7 +41,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'Github',
-      key: 'd',
+      key: 'g',
       url: 'https://github.com/joshuaekingsbury?tab=repositories',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
