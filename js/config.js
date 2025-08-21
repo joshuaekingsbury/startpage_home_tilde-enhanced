@@ -48,6 +48,16 @@ const CONFIG = {
       icon: 'github',
       quickLaunch: true,
     },
+    {
+      category: 'General',
+      name: 'NASA ADS',
+      key: 'a',
+      url: 'https://ui.adsabs.harvard.edu/',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
   ],
 
   /**
