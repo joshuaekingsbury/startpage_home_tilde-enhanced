@@ -63,7 +63,7 @@ const CONFIG = {
   /**
    * Get suggestions as you type.
    */
-  suggestions: true,
+  suggestions: false,
   suggestionsLimit: 4,
 
   /**
@@ -105,7 +105,7 @@ const CONFIG = {
    * Instantly redirect when a key is matched. Put a space before any other
    * queries to prevent unwanted redirects.
    */
-  instantRedirect: false,
+  instantRedirect: true,
 
   /**
    * Open triggered queries in a new tab.
@@ -125,7 +125,7 @@ const CONFIG = {
   /**
    * Show keys instead of icons
    */
-  showKeys: false,
+  showKeys: true,
 
   /**
    * The delimiter between a command key and your search query. For example,
@@ -147,7 +147,7 @@ const CONFIG = {
   /**
    * Show a twenty-four-hour clock instead of a twelve-hour clock with AM/PM.
    */
-  twentyFourHourClock: true,
+  twentyFourHourClock: false,
 
   /**
    * File extension for icon images
