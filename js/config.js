@@ -58,6 +58,16 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
+    {
+      category: 'General',
+      name: 'Linux Package Search',
+      key: 'p',
+      url: 'https://pkgs.org/',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
   ],
 
   /**
