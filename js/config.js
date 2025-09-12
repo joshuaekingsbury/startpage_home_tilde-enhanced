@@ -68,6 +68,16 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
+    {
+      category: 'General',
+      name: 'Physics Refresher Course',
+      key: 'c',
+      url: 'https://courses.profoundphysics.com/l/dashboard',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
   ],
 
   /**
