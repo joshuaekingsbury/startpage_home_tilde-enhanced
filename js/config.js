@@ -10,7 +10,7 @@ const CONFIG = {
       name: 'Google',
       key: '*',
       url: 'https://google.com',
-      search: '/search?udm=14&q='
+      search: '/search?q=%s&udm=14'
     },
     {
       name: 'Duckduckgo',
