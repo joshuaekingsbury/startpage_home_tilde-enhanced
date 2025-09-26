@@ -82,7 +82,7 @@ const CONFIG = {
       category: 'General',
       name: 'Blackboard',
       key: 'b',
-      url: 'https://courses.miami.edu',
+      url: 'https://www.courses.miami.edu/auth-saml/saml/login?apId=_8383_1',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: '',
