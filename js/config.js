@@ -118,6 +118,18 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
+
+    {
+      category: 'General',
+      name: 'Links',
+      key: 'l',
+      url: 'https://startpage.joking.space/links.html',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
+             
   ],
 
   /**
