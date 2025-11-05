@@ -118,7 +118,6 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
-
     {
       category: 'General',
       name: 'Links',
@@ -129,7 +128,16 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
-             
+    {
+      category: 'General',
+      name: 'PDF Invert',
+      key: 'i',
+      url: 'https://www.pdfconvertonline.com/invert-pdf/',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
   ],
 
   /**
