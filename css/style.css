@@ -176,12 +176,41 @@ template {
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: local('OpenDyslexic-Regular'), url('../assets/fonts/OpenDyslexic-Regular.woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: local('OpenDyslexic-Bold'), url('../assets/fonts/OpenDyslexic-Bold.woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: local('OpenDyslexic-Italic'), url('../assets/fonts/OpenDyslexic-Italic.woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: local('OpenDyslexic-Bold-Italic'), url('../assets/fonts/OpenDyslexic-Bold-Italic.woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+
 * {
   box-sizing: border-box;
 }
 
 html {
-  font-family: "Metropolis", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "OpenDyslexic", "Metropolis", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: var(--base-font-size);
   font-weight: var(--font-weight-normal);
 }
