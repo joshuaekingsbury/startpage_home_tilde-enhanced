@@ -138,6 +138,19 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
+    {
+      category: 'General',
+      name: 'Zoom',
+      key: 'z',
+      url: 'https://zoom.us/signin#/login',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
+
+
+             
   ],
 
   /**
