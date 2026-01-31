@@ -142,7 +142,7 @@ const CONFIG = {
       category: 'General',
       name: 'Zoom',
       key: 'z',
-      url: 'https://zoom.us/signin#/login',
+      url: 'https://miami.zoom.us/recording/',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: '',
