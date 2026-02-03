@@ -148,7 +148,16 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
-
+    {
+      category: 'General',
+      name: 'Canvas UM',
+      key: 'z',
+      url: 'https://canvas.miami.edu/',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
 
              
   ],
