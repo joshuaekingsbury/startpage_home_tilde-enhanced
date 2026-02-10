@@ -71,7 +71,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'Physics Refresher Course',
-      key: 'c',
+      key: 'p',
       url: 'https://courses.profoundphysics.com/l/dashboard',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
@@ -151,7 +151,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'Canvas UM',
-      key: 'z',
+      key: 'c',
       url: 'https://canvas.miami.edu/',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
