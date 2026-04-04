@@ -158,6 +158,16 @@ const CONFIG = {
       icon: '',
       quickLaunch: true,
     },
+    {
+      category: 'General',
+      name: 'VIA Keypad Interface',
+      key: 'c',
+      url: 'https://usevia.app/',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #dd5145, #dd5145)',
+      icon: '',
+      quickLaunch: true,
+    },
 
              
   ],
